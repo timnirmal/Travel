@@ -1,1 +1,2 @@
-# Travel
+# Initial page
+
